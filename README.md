@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=hoon%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=영훈%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 ## 🎓 학력
 
 ### 수원대학교 데이터과학부 
 
-2018.03. ~ 2022.08
+2018.03. ~ 2024.02
 
 ## 📚 교육
 
@@ -13,20 +13,9 @@
 2024.01 ~ 2024.07
 
 ## 🏅 자격증
-#### 정보처리기사 (필기) (2024.06)
-#### 데이터 분석 준전문가 (ADsP) (2022.06)
-#### 컴퓨터 활용 능력 2급 (2021.08)
-
-## 💌 SNS
- <a href="mailto:hyejiining@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
-  <a href="https://velog.io/@hyejiining">
-   <img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/hyejiining/?igsh=MTZ5aXcxZzhwMGtzdQ%3D%3D&utm_source=qr">
-   <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+#### 빅데이터분석기사 (2023.12.22)
+#### 정보처리기사 (필기) (2024.03)
+#### SQL 개발자 (SQLD) (2024.06)
 
 ## 💻 IT 관련 스킬
 <h3> Languages </h3>
